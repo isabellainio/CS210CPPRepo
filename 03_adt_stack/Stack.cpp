@@ -44,7 +44,7 @@ bool Stack::isEmpty() const {
 }
 
 bool Stack::isFull() const {
-    return topIndex == 99;
+     return topIndex == 99;
 }
 
 int Stack::size() const
